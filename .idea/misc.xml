@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/activity_glide.xml" value="0.22909090412549746" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/activity_main.xml" value="0.23999999479814021" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/activity_without_libraries.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/australian_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/australian_frame_layout.xml" value="0.1" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/australian_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/colombia_constraint_layout.xml" value="0.1" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/colombia_constraintlayout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/colombia_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/colombia_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/colombia_linearlayout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/denmark_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/denmark_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/denmark_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/italy_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/italy_constraintlayout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/italy_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/italy_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/madagascar_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/madagascar_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/madagascar_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/poland_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/poland_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/poland_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/switzerland_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/switzerland_constraintlayout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/switzerland_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/switzerland_linear_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/thailand_constraint_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/thailand_frame_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/faya/AndroidStudioProjects/HW3/app/src/main/res/layout/thailand_linear_layout.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
